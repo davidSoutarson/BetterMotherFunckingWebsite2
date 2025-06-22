@@ -5,7 +5,7 @@ document.getElementById('bloc_page').style.backgroundColor = 'magenta';*/
 alert("voulez vous aller sur xxxvidsxxx");
 
 //test addEvenetListener//
-var p1 = document.querySelector("li");
+var p1 = document.querySelector(".black");
 
 p1.addEventListener("click", changeTexte);
 

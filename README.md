@@ -17,11 +17,13 @@ toufois dans un bute pedagogique j'ais ajouter quelle que effes visuele.
 
 ## Capture d'écran
 
-![Capture du site BetterMotherFunckingWebsite](photo/imageTuto.jpg)
+![Capture du site BetterMotherFunckingWebsite2](photo/imageTuto.jpg)
 
 click sur ajouter plus de contraste et observés le resulta
 
 un fond noir pour plus de clarter :)
+
+![Capture du site BetterMotherFunckingWebsite2](photo/imageTuto2o.jpg)
 
 ## Structure du projet
 
