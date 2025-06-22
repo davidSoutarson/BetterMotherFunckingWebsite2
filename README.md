@@ -2,7 +2,12 @@
 
 ## Description
 
-Ce projet est une reproduction améliorée du site **BetterMotherFunckingWebsite**, réalisée dans le cadre d'un exercice du parcours **The Hacking Project (THP)**. Il utilise les technologies web de base : HTML, CSS et JavaScript.
+Ce projet est une reproduction améliorée du site **BetterMotherFunckingWebsite**, réalisée dans le cadre d'un exercice du parcours **The Hacking Project (THP)**. Il utilise les technologies web de base : HTML, CSS et JavaScript + photo.
+
+Ce projet est une page HTML brute, inspirée de la célèbre satire motherfuckingwebsite.com, traduite et adaptée en français.
+L’objectif est de démontrer, avec humour, qu’un site peut être fonctionnel, accessible, rapide et clair, sans effets visuels superflus.
+
+toufois dans un bute pedagogique j'ais ajouter quelle que effes visuele.
 
 ## Objectifs
 
@@ -10,24 +15,29 @@ Ce projet est une reproduction améliorée du site **BetterMotherFunckingWebsite
 - Pratiquer la manipulation du HTML, CSS et JavaScript.
 - Apprendre à organiser un projet web simple.
 
+## Capture d'écran
+
+![Capture du site BetterMotherFunckingWebsite](assets/screenshot.png)
+
 ## Structure du projet
 
 ```
-BetterMotherFunckingWebsite/
+BetterMotherFunckingWebsite2/
 ├── bettermotherfunckingsitewed.html  # Fichier HTML principal
 ├── style.css                         # Feuille de style CSS
 ├── script.js                        # Script JavaScript
 ├── README.md                        # Ce fichier
 ```
+
 ## Installation et utilisation
 
 1. Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/davidSoutarson/BetterMotherFunckingWebsite.git
+git clone https://github.com/davidSoutarson/BetterMotherFunckingWebsite2.git
 ```
 
-2. Ouvrez `bettermotherfunckingsitewed.html` dans votre navigateur web.
+2. Ouvrez `bettermotherfunckingsitewed2.html` dans votre navigateur web.
 
 ## Contribution
 
@@ -39,4 +49,4 @@ Ce projet est libre et open source.
 
 ---
 
-*Réalisé dans le cadre de The Hacking Project.*
+_Réalisé dans le cadre de The Hacking Project._
