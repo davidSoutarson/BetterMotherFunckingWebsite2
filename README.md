@@ -17,7 +17,7 @@ toufois dans un bute pedagogique j'ais ajouter quelle que effes visuele.
 
 ## Capture d'écran
 
-![Capture du site BetterMotherFunckingWebsite](https://github.com/davidSoutarson/BetterMotherFunckingWebsite2/tree/master/photo/imageTuto.jpg)
+![Capture du site BetterMotherFunckingWebsite](photo/imageTuto.jpg)
 
 ## Structure du projet
 
@@ -26,6 +26,7 @@ BetterMotherFunckingWebsite2/
 ├── bettermotherfunckingsitewed.html  # Fichier HTML principal
 ├── style.css                         # Feuille de style CSS
 ├── script.js                        # Script JavaScript
+├── photo                            # images
 ├── README.md                        # Ce fichier
 ```
 
