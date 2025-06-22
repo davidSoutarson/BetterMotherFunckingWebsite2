@@ -19,6 +19,10 @@ toufois dans un bute pedagogique j'ais ajouter quelle que effes visuele.
 
 ![Capture du site BetterMotherFunckingWebsite](photo/imageTuto.jpg)
 
+click sur ajouter plus de contraste et observés le resulta
+
+un fond noir pour plus de clarter :)
+
 ## Structure du projet
 
 ```
