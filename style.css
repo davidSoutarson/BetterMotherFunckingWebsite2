@@ -1,0 +1,34 @@
+#bloc_page
+{
+
+	width:50%;
+	margin:auto;
+		
+}
+
+header
+{
+
+	background-color:blue;
+}
+
+nav 
+{
+	background-color:red;
+	margin-left: 60%;
+}
+
+nav ul
+{
+	 list-style-type:none;
+}
+
+section ul 
+{
+	/*color:green;*/
+}
+
+section
+{
+	font-size:1.3em;
+}
