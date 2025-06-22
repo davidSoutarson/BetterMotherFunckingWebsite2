@@ -23,7 +23,7 @@ click sur ajouter plus de contraste et observés le resulta
 
 un fond noir pour plus de clarter :)
 
-![Capture du site BetterMotherFunckingWebsite2](photo/imageTuto2o.jpg)
+![Capture du site BetterMotherFunckingWebsite2](photo/imageTuto2.jpg)
 
 ## Structure du projet
 
