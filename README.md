@@ -17,7 +17,7 @@ toufois dans un bute pedagogique j'ais ajouter quelle que effes visuele.
 
 ## Capture d'écran
 
-![Capture du site BetterMotherFunckingWebsite](assets/screenshot.png)
+![Capture du site BetterMotherFunckingWebsite](https://github.com/davidSoutarson/BetterMotherFunckingWebsite2/tree/master/photo/imageTuto.jpg)
 
 ## Structure du projet
 
